@@ -1,0 +1,205 @@
+Time resolution is 1 ps
+Configuration completed                      0 ns
+Constructed filename:       test_data_0000.txt
+1. Accuracy: 0.000000, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0001.txt
+2. Accuracy: 50.000000, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0002.txt
+3. Accuracy: 33.333333, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0003.txt
+4. Accuracy: 25.000000, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0004.txt
+5. Accuracy: 20.000000, Detected number: 2, Expected: 0004
+Constructed filename:       test_data_0005.txt
+6. Accuracy: 16.666667, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0006.txt
+7. Accuracy: 14.285714, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0007.txt
+8. Accuracy: 12.500000, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0008.txt
+9. Accuracy: 11.111111, Detected number: 2, Expected: 0005
+Constructed filename:       test_data_0009.txt
+10. Accuracy: 10.000000, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0010.txt
+11. Accuracy: 9.090909, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0011.txt
+12. Accuracy: 8.333333, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0012.txt
+13. Accuracy: 7.692308, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0013.txt
+14. Accuracy: 14.285714, Detected number: 0, Expected: 0000
+Constructed filename:       test_data_0014.txt
+15. Accuracy: 13.333333, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0015.txt
+16. Accuracy: 12.500000, Detected number: 2, Expected: 0005
+Constructed filename:       test_data_0016.txt
+17. Accuracy: 11.764706, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0017.txt
+18. Accuracy: 11.111111, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0018.txt
+19. Accuracy: 10.526316, Detected number: 2, Expected: 0003
+Constructed filename:       test_data_0019.txt
+20. Accuracy: 10.000000, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0020.txt
+21. Accuracy: 9.523810, Detected number: 0, Expected: 0009
+Constructed filename:       test_data_0021.txt
+22. Accuracy: 9.090909, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0022.txt
+23. Accuracy: 8.695652, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0023.txt
+24. Accuracy: 8.333333, Detected number: 2, Expected: 0005
+Constructed filename:       test_data_0024.txt
+25. Accuracy: 8.000000, Detected number: 2, Expected: 0004
+Constructed filename:       test_data_0025.txt
+26. Accuracy: 7.692308, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0026.txt
+27. Accuracy: 7.407407, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0027.txt
+28. Accuracy: 7.142857, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0028.txt
+29. Accuracy: 10.344828, Detected number: 0, Expected: 0000
+Constructed filename:       test_data_0029.txt
+30. Accuracy: 10.000000, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0030.txt
+31. Accuracy: 9.677419, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0031.txt
+32. Accuracy: 9.375000, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0032.txt
+33. Accuracy: 9.090909, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0033.txt
+34. Accuracy: 8.823529, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0034.txt
+35. Accuracy: 8.571429, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0035.txt
+36. Accuracy: 11.111111, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0036.txt
+37. Accuracy: 10.810811, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0037.txt
+38. Accuracy: 10.526316, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0038.txt
+39. Accuracy: 10.256410, Detected number: 0, Expected: 0002
+Constructed filename:       test_data_0039.txt
+40. Accuracy: 10.000000, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0040.txt
+41. Accuracy: 9.756098, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0041.txt
+42. Accuracy: 9.523810, Detected number: 0, Expected: 0007
+Constructed filename:       test_data_0042.txt
+43. Accuracy: 9.302326, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0043.txt
+44. Accuracy: 11.363636, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0044.txt
+45. Accuracy: 11.111111, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0045.txt
+46. Accuracy: 10.869565, Detected number: 0, Expected: 0005
+Constructed filename:       test_data_0046.txt
+47. Accuracy: 10.638298, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0047.txt
+48. Accuracy: 12.500000, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0048.txt
+49. Accuracy: 12.244898, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0049.txt
+50. Accuracy: 12.000000, Detected number: 2, Expected: 0004
+Constructed filename:       test_data_0050.txt
+51. Accuracy: 11.764706, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0051.txt
+52. Accuracy: 11.538462, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0052.txt
+53. Accuracy: 11.320755, Detected number: 0, Expected: 0005
+Constructed filename:       test_data_0053.txt
+54. Accuracy: 11.111111, Detected number: 0, Expected: 0005
+Constructed filename:       test_data_0054.txt
+55. Accuracy: 10.909091, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0055.txt
+56. Accuracy: 10.714286, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0056.txt
+57. Accuracy: 10.526316, Detected number: 2, Expected: 0004
+Constructed filename:       test_data_0057.txt
+58. Accuracy: 10.344828, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0058.txt
+59. Accuracy: 10.169492, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0059.txt
+60. Accuracy: 10.000000, Detected number: 2, Expected: 0005
+Constructed filename:       test_data_0060.txt
+61. Accuracy: 9.836066, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0061.txt
+62. Accuracy: 9.677419, Detected number: 2, Expected: 0008
+Constructed filename:       test_data_0062.txt
+63. Accuracy: 9.523810, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0063.txt
+64. Accuracy: 9.375000, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0064.txt
+65. Accuracy: 9.230769, Detected number: 0, Expected: 0007
+Constructed filename:       test_data_0065.txt
+66. Accuracy: 9.090909, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0066.txt
+67. Accuracy: 8.955224, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0067.txt
+68. Accuracy: 8.823529, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0068.txt
+69. Accuracy: 8.695652, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0069.txt
+70. Accuracy: 8.571429, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0070.txt
+71. Accuracy: 8.450704, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0071.txt
+72. Accuracy: 8.333333, Detected number: 2, Expected: 0000
+Constructed filename:       test_data_0072.txt
+73. Accuracy: 9.589041, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0073.txt
+74. Accuracy: 9.459459, Detected number: 0, Expected: 0009
+Constructed filename:       test_data_0074.txt
+75. Accuracy: 9.333333, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0075.txt
+76. Accuracy: 9.210526, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0076.txt
+77. Accuracy: 9.090909, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0077.txt
+78. Accuracy: 10.256410, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0078.txt
+79. Accuracy: 10.126582, Detected number: 0, Expected: 0009
+Constructed filename:       test_data_0079.txt
+80. Accuracy: 10.000000, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0080.txt
+81. Accuracy: 9.876543, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0081.txt
+82. Accuracy: 9.756098, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0082.txt
+83. Accuracy: 10.843373, Detected number: 2, Expected: 0002
+Constructed filename:       test_data_0083.txt
+84. Accuracy: 10.714286, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0084.txt
+85. Accuracy: 10.588235, Detected number: 2, Expected: 0008
+Constructed filename:       test_data_0085.txt
+86. Accuracy: 10.465116, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0086.txt
+87. Accuracy: 10.344828, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0087.txt
+88. Accuracy: 10.227273, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0088.txt
+89. Accuracy: 10.112360, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0089.txt
+90. Accuracy: 10.000000, Detected number: 2, Expected: 0001
+Constructed filename:       test_data_0090.txt
+91. Accuracy: 9.890110, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0091.txt
+92. Accuracy: 9.782609, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0092.txt
+93. Accuracy: 9.677419, Detected number: 2, Expected: 0009
+Constructed filename:       test_data_0093.txt
+94. Accuracy: 9.574468, Detected number: 0, Expected: 0003
+Constructed filename:       test_data_0094.txt
+95. Accuracy: 9.473684, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0095.txt
+96. Accuracy: 9.375000, Detected number: 0, Expected: 0004
+Constructed filename:       test_data_0096.txt
+97. Accuracy: 9.278351, Detected number: 0, Expected: 0001
+Constructed filename:       test_data_0097.txt
+98. Accuracy: 9.183673, Detected number: 2, Expected: 0007
+Constructed filename:       test_data_0098.txt
+99. Accuracy: 9.090909, Detected number: 2, Expected: 0006
+Constructed filename:       test_data_0099.txt
+100. Accuracy: 9.000000, Detected number: 2, Expected: 0009
+Accuracy: 9.000000
+$stop called at time : 900235 ns : File "C:/NeuralNetworks/neuralNetwork/verification_ph2/src/fpga/tb/top_sim.v" Line 388
+INFO: xsimkernel Simulation Memory Usage: 19588 KB (Peak: 19588 KB), Simulation CPU Usage: 13999 ms
