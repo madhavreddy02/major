@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Sat Aug 31 16:48:06 2024
+# Process ID: 16756
+# Current directory: C:/NeuralNetworks/ASL_NN/ASL_NN
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20932 C:\NeuralNetworks\ASL_NN\ASL_NN\ASL_NN.xpr
+# Log file: C:/NeuralNetworks/ASL_NN/ASL_NN/vivado.log
+# Journal file: C:/NeuralNetworks/ASL_NN/ASL_NN\vivado.jou
+# Running On: Madhav002, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16904 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/NeuralNetworks/ASL_NN/ASL_NN/ASL_NN.xpr
+update_compile_order -fileset sources_1
+synth_design -top zyNet -part xc7z020clg484-1 -lint 
+launch_simulation
+source top_sim.tcl
+run all
+close_sim
+launch_simulation
+source top_sim.tcl
+close_sim
+launch_simulation
+source top_sim.tcl
+run all
+run all
+close_sim
+launch_simulation
+source top_sim.tcl
+run all
+close_sim
+launch_simulation
+source top_sim.tcl
+run all
+close_sim
+synth_design -top zyNet -part xc7z020clg484-1 -lint 
+launch_simulation
+source top_sim.tcl
+run all
+run all
+relaunch_sim
+run all
+relaunch_sim
+close_sim
+launch_simulation
+source top_sim.tcl
+run all
+close_sim

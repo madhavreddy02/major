@@ -1,0 +1,19 @@
+0.7
+2020.2
+Feb  9 2024
+00:36:40
+C:/NeuralNetworks/ASL_NN/ASL_NN/ASL_NN.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_1.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_2.v,,Layer_1,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_2.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_3.v,,Layer_2,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_3.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_4.v,,Layer_3,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_4.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_5.v,,Layer_4,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Layer_5.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Sig_ROM.v,,Layer_5,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Sig_ROM.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Weight_Memory.v,,Sig_ROM,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/Weight_Memory.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/axi_lite_wrapper.v,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/include.v,Weight_Memory,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/axi_lite_wrapper.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/maxFinder.v,,axi_lite_wrapper,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/include.v,1725117259,verilog,,,,,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/maxFinder.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/neuron.v,,maxFinder,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/neuron.v,1725117500,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/relu.v,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/include.v,neuron,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/relu.v,1725103009,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/zynet.v,,ReLU,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/rtl/zynet.v,1725114495,verilog,,C:/NeuralNetworks/ASL_NN/src/fpga/tb/top_sim.v,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/include.v,zyNet,,,,,,,,
+C:/NeuralNetworks/ASL_NN/src/fpga/tb/top_sim.v,1725117078,verilog,,,C:/NeuralNetworks/ASL_NN/src/fpga/rtl/include.v,top_sim,,,,,,,,

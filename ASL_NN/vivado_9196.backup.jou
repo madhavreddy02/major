@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.2 (64-bit)
+# SW Build 4126759 on Thu Feb  8 23:53:51 MST 2024
+# IP Build 4126054 on Fri Feb  9 11:39:09 MST 2024
+# SharedData Build 4115275 on Tue Jan 30 00:40:57 MST 2024
+# Start of session at: Sat Aug 31 16:46:51 2024
+# Process ID: 9196
+# Current directory: c:/NeuralNetworks/ASL_NN
+# Command line: vivado.exe -mode tcl -source c:\NeuralNetworks\ASL_NN\zynet\db/vivadoScript.tcl -tclargs xc7z020clg484-1
+# Log file: c:/NeuralNetworks/ASL_NN/vivado.log
+# Journal file: c:/NeuralNetworks/ASL_NN\vivado.jou
+# Running On: Madhav002, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16904 MB
+#-----------------------------------------------------------
+source {c:\NeuralNetworks\ASL_NN\zynet\db/vivadoScript.tcl}
